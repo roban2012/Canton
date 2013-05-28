@@ -1,0 +1,15 @@
+改config
+moban-GZ
+PG 2.0.0-2.7.0
+
+修改版权story00.
+新版
+ 
+
+<a href= "pic01.html">广州公路交通干线</a><br><br>
+<a href= "pic02.html">学做广州人：粤语</a><br><br>
+<a href= "pic03.html">广州地铁交通干线</a><br><br>
+
+
+<a href= "link01.html">粤语和文化</a><br><br>
+<a href= "link02.html">自由贸易的神话</a><br><br>
